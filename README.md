@@ -33,11 +33,11 @@
 # 📖 Math-Magicians <a name="about-project"></a>
 
 
-**Math-Magicians** It is a Single Page Application that allows users to Mmake simple math operations.
+**Math-Magicians** It is a Single Page Application that allows users to make simple math operations and read inspirational quotes from an API.
+
+![Calc](https://github.com/bohaz/math-magicians/assets/127757182/6a72431f-53e4-4634-8bcc-74af0b34732c)
 
 ## 🛠 Built With <a name="built-with"></a>
-
-React, Git, and GitHub
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -46,6 +46,18 @@ React, Git, and GitHub
   <summary>Client</summary>
   <ul>
     <li><a href="#">React</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">Redux</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">CSS3</a></li>
   </ul>
 </details>
 
