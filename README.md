@@ -51,13 +51,13 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">Redux</a></li>
+    <li><a href="https://api-ninjas.com/">Api-Ninja</a></li>
   </ul>
 </details>
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">CSS3</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS3</a></li>
   </ul>
 </details>
 
