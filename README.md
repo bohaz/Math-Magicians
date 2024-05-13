@@ -64,10 +64,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Best organization]**
-- **[Professional documentation]**
-- **[Clean coding]**
-- **[Team Working]**
+- **Best organization**
+- **Professional documentation**
+- **Clean coding**
+- **Team Working**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,8 +95,10 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder
-git clone git@github.com:bohaz/math-magicians.git
+```sh
+  cd my-folder
+  git clone git@github.com:bohaz/math-magicians.git
+```
 
 ### Install
 
