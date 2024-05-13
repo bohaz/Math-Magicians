@@ -33,7 +33,7 @@
 # 📖 Math-Magicians <a name="about-project"></a>
 
 
-**Math-Magicians** It is a Single Page Application that allows users to make simple math operations and read inspirational quotes from an API.
+**Math-Magicians** It is a Single Page Application that allows users to make simple math operations and read inspirational quotes from an API-Ninja.
 
 ![Calc](https://github.com/bohaz/math-magicians/assets/127757182/6a72431f-53e4-4634-8bcc-74af0b34732c)
 
@@ -45,7 +45,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">React</a></li>
+    <li><a href="https://es.react.dev/">React</a></li>
   </ul>
 </details>
 <details>
